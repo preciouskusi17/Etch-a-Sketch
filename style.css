@@ -1,0 +1,12 @@
+
+
+#container{
+    width:514px;
+    height: 514px;
+    border: 2px black solid;
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin: auto;
+}
+
