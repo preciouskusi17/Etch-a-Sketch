@@ -1,3 +1,8 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color:bisque;
+}
 
 
 #container{
@@ -8,5 +13,12 @@
     flex-wrap: wrap;
     box-sizing: border-box;
     margin: auto;
+    background-color: white;
 }
 
+button{
+    padding: 8px 15px ;
+    border-radius: 8px;
+    border: 16px ;
+    background: skyblue;
+}
